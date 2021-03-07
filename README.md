@@ -1,1 +1,1 @@
-# ML_chun_prdiction
+# ML_churn_prediction
